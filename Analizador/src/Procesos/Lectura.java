@@ -70,5 +70,19 @@ do{
         return token;  
    }
     
+   
+   public String metodoParche(){
+        
+        try{
+            
+            return   token=daTokenv2(linea);
+            
+        }catch(Exception e){
+              
+            return " ";
+                    
+                    }
+             
+    }
     
 }

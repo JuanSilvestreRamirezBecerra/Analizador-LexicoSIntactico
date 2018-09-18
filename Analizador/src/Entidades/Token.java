@@ -10,14 +10,15 @@ package Entidades;
  * @author 
  *  Argel Ortiz Arenas
  *  Jose Martin Ruiz Coss
- *
+ *  Angel Cristian Alvrez Trujillo
+ * 
  *  Paerte del software que analiza si un programa escrito
  *  en un lenguaje espesifico es sintactica y lexicamente correcto o no
  *
  *  Con colaboracion en conjunto de:
  *  
- *  Eder Luis Beade Gomez
- *  Angel Cristian Alvrez Trujillo
+ *  
+ *  
  */
 public class Token {
     
