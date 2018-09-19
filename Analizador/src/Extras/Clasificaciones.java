@@ -17,10 +17,15 @@ public class Clasificaciones {
     private final String acentMin = "áéíóú";
     private final String acentMay = "ÁÉÍÓÚ";
     private final String[] reservadas = {"Iniciar","Finalizar","Variables","int","String","do","while","printf","$"};
+    private final String comillaDoble = "\"";
     
     public Clasificaciones(){
         
         
+    }
+    
+    public Boolean isComillaDoble(char simbolo){
+        return simbolo == comillaDoble.charAt(0);
     }
     
     public Boolean isLetterMin(char simbolo) {

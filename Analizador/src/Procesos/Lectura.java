@@ -52,7 +52,18 @@ do{
         fin++;
         inicio = fin;
         
+     }else if(c.isComillaDoble(linea.charAt(fin))){ //este entra primero. Si encuetra una comilla doble lee todo lo que tiene hasta que encuentra otra comilla doble
+         do{
+             token += linea.charAt(fin);
+             fin++;
+             
+             
+         }while(c.isComillaDoble(linea.charAt(fin)));
+         inicio = fin;
+         break;
         
+        
+    
     }else if(c.isWhite(linea.charAt(fin+1))){// esta leyendo un caracter, si encuentra un espacio, corta y guarda el token. posteriormente se igualan los apuntadores 
                                              //al lugar del ultimo espacio para que a partir de ahi, se comience a leer desde el ultimo punto cuando se vuelva a llamar el metodo
         token += linea.charAt(fin);
