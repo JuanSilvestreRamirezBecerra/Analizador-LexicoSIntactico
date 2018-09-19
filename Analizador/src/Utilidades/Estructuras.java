@@ -17,7 +17,10 @@ package Utilidades;
  */
 public class Estructuras {
 
-    public  String[] producciones ={};//Agregar producciones
+    public  String[] producciones ={"iniciar","code","finalizar","forerunner","statement","variables","assignment","datatype","id",",",
+                                    "other","int","string","do","sentences","while","condition","output","input","sentences","operation",
+                                   "sentences","printf","(","chain",")",";","captura","id",";","id","=","+","id",";","cadena","concatenation",
+                                    "cadena","+","id","+","cadena","+","id","+","cadena","+","id","id","==","char"};//Agregar producciones
     
     public String[] simbolNT ={"program","code","forerunner","assignment","other","datatype",
             "statement","sentences","output","input","operation","chain","concatenation","condition"};
