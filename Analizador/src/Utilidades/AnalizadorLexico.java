@@ -77,7 +77,7 @@ public class AnalizadorLexico {
         if (posicion == token.length()) {
             
             t.setToken(token);
-            t.setClasificacion("Equal");
+            t.setClasificacion("Caracter Simple");
             
         }else if (posicion < token.length()) {
             
@@ -99,7 +99,7 @@ public class AnalizadorLexico {
         if (posicion == token.length()) {
             
             t.setToken(token);
-            t.setClasificacion("Equals");
+            t.setClasificacion("Caracter Simple");
             
         }else{
             
@@ -114,7 +114,7 @@ public class AnalizadorLexico {
         if (posicion == token.length()) {
             
             t.setToken(token);
-            t.setClasificacion("Add");
+            t.setClasificacion("Caracter Simple");
             
         }else{
             
@@ -130,7 +130,7 @@ public class AnalizadorLexico {
         if (posicion == token.length()) {
             
             t.setToken(token);
-            t.setClasificacion("ParIzq");
+            t.setClasificacion("Caracter Simple");
             
         }else{
             
@@ -144,7 +144,7 @@ public class AnalizadorLexico {
         if (posicion == token.length()) {
             
             t.setToken(token);
-            t.setClasificacion("ParDer");
+            t.setClasificacion("Caracter Simple");
             
         }else{
             
@@ -159,7 +159,7 @@ public class AnalizadorLexico {
         if (posicion == token.length()) {
             
             t.setToken(token);
-            t.setClasificacion("PComa");
+            t.setClasificacion("Caracter Simple");
             
         }else{
             
@@ -173,7 +173,7 @@ public class AnalizadorLexico {
         if (posicion == token.length()) {
             
             t.setToken(token);
-            t.setClasificacion("Coma");
+            t.setClasificacion("Caracter Simple");
             
         }else{
             

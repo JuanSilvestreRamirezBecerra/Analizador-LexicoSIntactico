@@ -243,8 +243,8 @@ public class LLDriver {
 
             }
 
-        } else if (a.getClasificacion().equals("intLiteral")) {
-//            System.out.println("4");
+        }else if (a.getClasificacion().equals("Cadenas")) {
+//            System.out.println("3");
             for (int i = 0; i < e.simbolT.length; i++) {
 
                 if (a.getClasificacion().equals(e.simbolT[i])) {
@@ -253,17 +253,7 @@ public class LLDriver {
 
             }
 
-        } else if (a.getClasificacion().equals("Operadores")) {
-//            System.out.println("5");
-            for (int i = 0; i < e.simbolT.length; i++) {
-
-                if (a.getToken().equals(e.simbolT[i])) {
-                    return i;
-                }
-
-            }
-
-        } else {
+        }else {
 
             return e.simbolT.length;
 
