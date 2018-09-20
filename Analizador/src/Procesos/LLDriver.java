@@ -58,9 +58,9 @@ public class LLDriver {
     //modificar metodos de comprobacion (Ubicados hasta abajo)
     public void analizar() {
 
-        p.push("systemgoal");
+        p.push("program");
 
-        x = (String) p.peak();// asignar "x"
+        x = (String) p.peak();// asignar "x" al tope de la pila
 
         c.controlador(); // asignando el token a "a"
 
@@ -243,7 +243,7 @@ public class LLDriver {
 
             }
 
-        }else if (a.getClasificacion().equals("Cadenas")) {
+        }else if (a.getClasificacion().equals("cadena")) {
 //            System.out.println("3");
             for (int i = 0; i < e.simbolT.length; i++) {
 

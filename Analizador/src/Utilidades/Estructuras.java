@@ -26,7 +26,7 @@ public class Estructuras {
             "statement","sentences","output","input","operation","chain","concatenation","condition"};
     
     public String[] simbolT = {"iniciar","finalizar","variables","id",",","int","string","do","while",
-            "printf","(",")",";","captura","Cadenas","mas","==","char"};
+            "printf","(",")",";","captura","cadena","+","==","char"};
     
     
     int contNT, contG, contT, contP;
@@ -35,19 +35,9 @@ public class Estructuras {
         
         simbolT = new String[1];
         
-        
         contNT = 0;
         contG = 0;
         contT = 0;
     }
-    
-    public void formarEstructuras(){
-        
-        
 
-        
-    }
-    
-   
-    
 }
