@@ -22,9 +22,18 @@ public class PruebaLexico {
         Token t = new Token();
         AnalizadorLexico al = new AnalizadorLexico();
         
-        al.q0("String", t);
-        
+        al.q0("Iniciar", t);
         System.out.println("Ingresado " +t.getToken()+" "+"\n"+"con clasificacion " + t.getClasificacion());
+        
+        al.q0("int", t);
+        System.out.println("Ingresado " +t.getToken()+" "+"\n"+"con clasificacion " + t.getClasificacion());
+        
+        al.q0("a", t);
+        System.out.println("Ingresado " +t.getToken()+" "+"\n"+"con clasificacion " + t.getClasificacion());
+        
+        al.q0("==", t);
+        System.out.println("Ingresado " +t.getToken()+" "+"\n"+"con clasificacion " + t.getClasificacion());
+        
     }
     
 }

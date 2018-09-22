@@ -4,13 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Utilidades/AnalizadorLexico.java</file>
-            <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Extras/ProcesosAuxiliares.java</file>
-            <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Utilidades/Controlador.java</file>
+            <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Pruebas/PruebaLectura.java</file>
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Utilidades/Estructuras.java</file>
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Procesos/LLDriver.java</file>
-            <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Utilidades/Pila.java</file>
+            <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Pruebas/PruebaLexico.java</file>
+            <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Extras/Clasificaciones.java</file>
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Procesos/Lectura.java</file>
-            <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Entidades/Token.java</file>
         </group>
     </open-files>
 </project-private>
