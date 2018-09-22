@@ -352,7 +352,7 @@ public class AnalizadorLexico {
         if (posicion == token.length()) {
             
             t.setToken(token);
-            t.setClasificacion("Cadenas");
+            t.setClasificacion("cadena");
             
         }else{
             

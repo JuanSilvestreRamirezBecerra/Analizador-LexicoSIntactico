@@ -3,6 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Utilidades/AnalizadorLexico.java</file>
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Pruebas/PruebaLectura.java</file>
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Utilidades/Estructuras.java</file>
@@ -10,6 +11,20 @@
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Pruebas/PruebaLexico.java</file>
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Extras/Clasificaciones.java</file>
             <file>file:/A:/ITL/Lenguajes%20y%20Automatas%20ll/Analizador/Analizador/src/Procesos/Lectura.java</file>
+=======
+<<<<<<< HEAD
+            <file>file:/C:/Users/MartinCoss/Documents/TEC/7mo%20semestre/LengAut2/LLDriver/Analizador-LexicoSIntactico/Analizador/src/Pruebas/PruebaToken.java</file>
+            <file>file:/C:/Users/MartinCoss/Documents/TEC/7mo%20semestre/LengAut2/LLDriver/Analizador-LexicoSIntactico/Analizador/src/Procesos/Lectura.java</file>
+            <file>file:/C:/Users/MartinCoss/Documents/TEC/7mo%20semestre/LengAut2/LLDriver/Analizador-LexicoSIntactico/Analizador/src/Extras/Clasificaciones.java</file>
+=======
+            <file>file:/C:/Users/crist/Desktop/GitHub/Analizador-LexicoSIntactico/Analizador/src/Utilidades/AnalizadorLexico.java</file>
+            <file>file:/C:/Users/crist/Desktop/GitHub/Analizador-LexicoSIntactico/Analizador/src/Utilidades/Estructuras.java</file>
+            <file>file:/C:/Users/crist/Desktop/GitHub/Analizador-LexicoSIntactico/Analizador/src/Extras/Clasificaciones.java</file>
+            <file>file:/C:/Users/crist/Desktop/GitHub/Analizador-LexicoSIntactico/Analizador/src/Entidades/Token.java</file>
+            <file>file:/C:/Users/crist/Desktop/GitHub/Analizador-LexicoSIntactico/Analizador/src/Procesos/LLDriver.java</file>
+            <file>file:/C:/Users/crist/Desktop/GitHub/Analizador-LexicoSIntactico/Analizador/src/Utilidades/Pila.java</file>
+>>>>>>> 3c2d7ada5219d69069fd5765f1474bfee53f001e
+>>>>>>> d18f9fac471188cdef38bdd7f0df8bce9b547912
         </group>
     </open-files>
 </project-private>

@@ -56,9 +56,11 @@ do{
          do{
              token += linea.charAt(fin);
              fin++;
+        
              
-             
-         }while(c.isComillaDoble(linea.charAt(fin)));
+         }while(!c.isComillaDoble(linea.charAt(fin)));// falta agregar que en caso de que no tenga comilla de cierre, sigua leyendo hasta el fin del archivo(varibale linea)
+         token += linea.charAt(fin);
+         fin++;//
          inicio = fin;
          break;
         
